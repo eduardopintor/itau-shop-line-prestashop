@@ -1,0 +1,36 @@
+Mensagem da loja {shop_name}
+
+Olá {firstname} {lastname}
+
+Muito obrigado por comprar na {shop_name}!
+
+Detalhes do pedido
+Pedido: {order_name} Realizado em {date}
+Pagamento: {payment}
+Produtos: {total_products}
+Descontos: {total_discounts}
+Embalagem para presente: {total_wrapping}
+Frete: {total_shipping}
+Total pago: {total_paid}
+
+
+Frete
+Transportadora: {carrier}
+Pagamento: {payment}
+
+Endereço de entrega:{delivery_block_html}
+
+Endereço de cobrança: {invoice_block_html}
+
+Lembramos que você escolheu a modalidade de pagamento por Boleto,
+e o seu produto será enviado assim que identificarmos seu pagamento.
+
+Para gerar o boleto clique no link abaixo:
+		- Link de Boleto {link_boleto}
+
+		rigado por compra na {shop_name}.
+
+		{shop_name} - {shop_url}
+
+
+		{shop_url}

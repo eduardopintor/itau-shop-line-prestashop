@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>Itau Shop Line</name>
+	<displayName><![CDATA[Itau Shopline]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Aceite pagamentos (Boleto, Débito, Transferencia, Cartao (se disponivel)) online direto no Itau. ]]></description>
+	<author><![CDATA[Edson Junior]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
